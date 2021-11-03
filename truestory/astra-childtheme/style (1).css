@@ -1,0 +1,24 @@
+/*
+ Theme Name:   Astra Child
+ Theme URI:    http://www.truestory.nnm.dk/
+ Description:  TrueStory - Oplev sammen 
+ Author:       Nikolaj, Frederik, Joakim og Nicolai
+ Author URI:   http://www.truestory.nnm.dk/
+ Template:     astra
+ Version:      3.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         custom-menu, Eget logo, Underholdning, En kolonne, To kolonner, Venstre sidebar, E-Commerce, Højre sidebar, Egne farver, Editor-stylesheet, Udvalgte billeder, Fuld bredde, microformats, Indlægsformater, rtl-language-support, Temafunktioner, threaded-comments, translation-ready, Blog
+ Text Domain:  astrachildtheme
+*/
+
+.ast-footer-copyright {
+  display:none; 
+}
+
+.ast-header-button-1 .ast-custom-button:hover {
+  background-color:#6E539E;
+  color: white; 
+  transform: scale(1.1);
+}
+
