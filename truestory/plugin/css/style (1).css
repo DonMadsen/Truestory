@@ -71,7 +71,7 @@
 .btn:hover {
   background-color:#6E539E !important;
   transform: scale(1.1);
-  transition-duration:0.2s;
+  transition-duration:0.3s;
 }
 
 
